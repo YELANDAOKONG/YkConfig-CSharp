@@ -7,8 +7,11 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Provider\Default\" />
       <Folder Include="Watcher\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Newtonsoft.Json" Version="9.0.1" />
     </ItemGroup>
 
 </Project>
