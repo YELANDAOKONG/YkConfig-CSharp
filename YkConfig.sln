@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YkConfig", "YkConfig\YkConfig.csproj", "{A3AD9720-DD89-4EBE-ADC2-ACF550965A7B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebugApp", "DebugApp\DebugApp.csproj", "{EB95B4E9-0EC6-47BA-8F23-D3B03AD9F48F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{A3AD9720-DD89-4EBE-ADC2-ACF550965A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3AD9720-DD89-4EBE-ADC2-ACF550965A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3AD9720-DD89-4EBE-ADC2-ACF550965A7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB95B4E9-0EC6-47BA-8F23-D3B03AD9F48F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB95B4E9-0EC6-47BA-8F23-D3B03AD9F48F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB95B4E9-0EC6-47BA-8F23-D3B03AD9F48F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB95B4E9-0EC6-47BA-8F23-D3B03AD9F48F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
